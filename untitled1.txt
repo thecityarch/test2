@@ -3,3 +3,4 @@ the rainbow and the unicorn
 hello world 
 this is a test. 
 this line is added. 
+adding a color. 
